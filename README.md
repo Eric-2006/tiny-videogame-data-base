@@ -1,4 +1,4 @@
-# Tiny Videogame Database - Java Collection Manager
+# Tiny Videogame Database
 
 A Java-based utility designed to manage and organize a collection of video game data using Object-Oriented Programming (OOP).
 
