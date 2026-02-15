@@ -65,7 +65,7 @@ public class Main extends ConsoleProgram {
         String fileName = input.readLine();
         while (fileName != null) {
             try {
-                VideoGameInfo vgi = VideoGameInfoReader.readVideoGameFile (fileName);
+                VideoGameInfo vgi = VideoGameInfoReader.readVideoGameFile ("VideoGamesDB" + fileName);
                 videoGamesDB.appendVideoGameInfo (vgi);
             }
             catch (IOException ioe) {
