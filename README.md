@@ -32,11 +32,11 @@ This project requires the **ACM Java Task Force** library (`acm.jar`) for input/
 
 1.  **Compile**:
     ```bash
-    javac -cp ".:/path/to/your/acm.jar" MainDatabase.java
+    javac -cp ".:/path/to/your/acm.jar" Main.java
     ```
 2.  **Run**:
     ```bash
-    java -cp ".:/path/to/your/acm.jar" MainDatabase
+    java -cp ".:/path/to/your/acm.jar" Main
     ```
 *(Note: Replace `MainDatabase.java` with your actual main file name and `/path/to/your/acm.jar` with the real path. On Windows, use a semicolon `;` instead of a colon `:`).*
 
