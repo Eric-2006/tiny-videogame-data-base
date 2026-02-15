@@ -5,7 +5,7 @@ A Java-based utility designed to manage and organize a collection of video game 
 ## Project Overview
 
 The main objective of this project is to create a structured system to store, search, and manage information about video games. It demonstrates how to handle data records using Java classes and how to interact with that data through a simple interface.
-1. **Data Management:** Allows adding, listing, and organizing video game entries (such as titles, genres, or platforms).
+1. **Data Management:** Allows listing, removing and getting information of video games.
 2. **Search Logic:** Includes functionality to find specific games within the database based on different criteria.
 3. **Structured Storage:** Uses arrays or lists to keep the game collection organized in memory during execution.
 
