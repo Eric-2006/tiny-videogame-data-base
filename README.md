@@ -28,7 +28,7 @@ The program focuses on maintaining data integrity and providing a clear way to v
 
 This project requires the **ACM Java Task Force** library (`acm.jar`) for input/output handling and display.
 
-## How to Run (Terminal)
+## How to Run
 
 1.  **Compile**:
     ```bash
