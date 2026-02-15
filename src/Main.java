@@ -9,8 +9,8 @@ public class Main extends ConsoleProgram {
         new Main().start();
     }
 
-    private static final String VIDEOGAMES_FILES   = "videogames.txt";
-    private static final String VIDEOGAMES_DB_NAME = "videogamesDB.dat";
+    private static final String VIDEOGAMES_FILES   = "VideoGamesDB/videogames.txt";
+    private static final String VIDEOGAMES_DB_NAME = "VideoGamesDB/videogamesDB.dat";
     private VideoGamesDB videoGamesDB;
 
     public void run() {
