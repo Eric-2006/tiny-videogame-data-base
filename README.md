@@ -41,7 +41,7 @@ This project requires the **ACM Java Task Force** library (`acm.jar`) for input/
 *(Note: Replace `MainDatabase.java` with your actual main file name and `/path/to/your/acm.jar` with the real path. On Windows, use a semicolon `;` instead of a colon `:`).*
 
 ## Technical Note (Language)
-The output console prints are written in **Catalan**, as it was an academic project for the University of Lleida (UdL) as part of the **Computer Science degree (Programació II, 2024-2025)**. This documentation is provided in English for universal portfolio visibility.
+The output console prints are written in **Catalan**, as it was an academic project for the University of Lleida (UdL) as part of the **Computer Science degree (Programació II, 2024-2025)**. This documentation is provided in English so more people can understand the project.
 
 ---
 **Developed by:** Eric Buenavida Crespo.
